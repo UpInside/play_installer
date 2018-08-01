@@ -1,0 +1,16 @@
+.attention{
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    box-shadow: 0px 3px 3px #CCC;
+    background-color: #C63D3A;
+}
+
+.attention p {
+    width: 100%;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 0.875em;
+}
